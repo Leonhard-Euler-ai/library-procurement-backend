@@ -1,0 +1,4 @@
+com\euler\repository\UserRepositoryTest.class
+com\euler\service\ArticleServiceImplTest.class
+com\euler\repository\ArticleRepositoryTest.class
+com\euler\service\UserServiceImplTest.class
